@@ -42,4 +42,5 @@ How to Run
 4. Build and run the app on a simulator or device.
   
 Preview
+
 The app dynamically updates to provide an engaging user experience, making it an ideal project to demonstrate skills in Swift, SwiftUI, and working with external APIs.
