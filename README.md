@@ -35,7 +35,7 @@ Skills Demonstrated
 
 How to Run
 1. Clone the repository:
-- git clone https://github.com/your-username/weather-app.git
+- git clone https://github.com/DawNow98/weather-app.git
 2. Open the project in Xcode.
 3. Add your API key securely:
 - Create a .xcconfig file or add an environment variable for API_KEY.
